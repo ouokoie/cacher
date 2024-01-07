@@ -12,5 +12,12 @@
         "psr-4": {
             "Ouokoie\\Cacher\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ouokoie\\Cacher\\CacherServiceProvider"
+            ]
+        }
     }
 }
