@@ -1,0 +1,16 @@
+{
+    "name": "ouokoie/cacher",
+    "description": "laravel cacher.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "koie",
+            "email": "koiefw3211@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ouokoie\\Cacher\\": "src/"
+        }
+    }
+}
