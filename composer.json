@@ -2,6 +2,12 @@
     "name": "ouokoie/cacher",
     "description": "laravel cacher.",
     "type": "library",
+    "keywords": ["laravel", "cacher"],
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": "^9.0|^10.0"
+    },
+    "license": "MIT",
     "authors": [
         {
             "name": "koie",
